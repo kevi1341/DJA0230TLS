@@ -1,5 +1,13 @@
 # Getting root
 
+-----
+
+While the [new method](https://github.com/awstanley/rrk/) still requires a Linux install (or a Virtual Machine, or Raspberry Pi), it is substantially simpler than this guide (which is now in a bad state due to various GenieACS changes over the last few months).
+
+[The new method can be found here](https://github.com/awstanley/rrk/blob/master/GUIDE.md).
+
+-----
+
 *People are working on ways to make this less of a problem.*
 
 This isn't a short document, so buckle up, and it comes with the usual caveats, borrowed from the ISC Licence.
